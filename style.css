@@ -1,0 +1,44 @@
+body{
+    background-color: #000
+}
+
+
+.container{
+    background-color: whitesmoke;
+    height: 1010px;
+    width: ;
+    
+
+}
+
+.bloc{
+    height: 60px;
+    width: 1020px;
+    background-color: grey;
+}
+
+.section{
+    height: 320px;
+    width: 1020px;
+    background-color: yellow;
+}
+
+.petitBloc{
+    height: 90px;
+    width: 900px;
+    background-color: green;
+    margin: auto;
+}
+
+.row{
+    height: 320px;
+    width: 1020px;
+    background-color: white;
+    margin: auto;
+}
+
+.col-4{
+    height: 480px;
+    width: 260px;
+    background-color: peru;
+}
