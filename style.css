@@ -1,44 +1,40 @@
 body{
-    background-color: #000
+    background-color: black;
+    height: 1400px;
 }
 
 
-.container{
-    background-color: whitesmoke;
-    height: 1010px;
-    width: ;
-    
-
-}
-
-.bloc{
-    height: 60px;
-    width: 1020px;
-    background-color: grey;
-}
-
-.section{
-    height: 320px;
-    width: 1020px;
-    background-color: yellow;
-}
-
+/*SECTION 01*/
 .petitBloc{
-    height: 90px;
-    width: 900px;
-    background-color: green;
-    margin: auto;
+    height:60px ;
+    width: 1020px ;
+    background-color: grey ;
+    margin: ;
+    padding: ;
 }
 
-.row{
-    height: 320px;
-    width: 1020px;
+.moyenBloc{
+    height: 320px ;
+    width: 1020px ;
+    background-color: whitesmoke ;
+    margin: ;
+    padding: ;
+}
+
+/*SECTION 02*/
+.section02{
     background-color: white;
-    margin: auto;
+    height: 700px;
+
 }
 
-.col-4{
-    height: 480px;
-    width: 260px;
-    background-color: peru;
+.moyenBlocFlotant{
+    height: 90px ;
+    width: 900px ;
+    background-color: whitesmoke;
+    margin: auto;
+    margin-top: ;
+    padding-top: ;
+    border-top: ;
+    border: ;
 }
