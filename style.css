@@ -5,15 +5,16 @@ body{
 
 
 /*SECTION 01*/
-.petitBloc{
+.navbar{
     height:60px ;
     width: 1020px ;
     background-color: grey ;
     margin: ;
     padding: ;
+    text-align: center;
 }
 
-.moyenBloc{
+.presentation{
     height: 320px ;
     width: 1020px ;
     background-color: whitesmoke ;
@@ -21,20 +22,56 @@ body{
     padding: ;
 }
 
+.presentation>h1{
+    font-size: 8rem;
+    text-align: center;
+    
+}
+
+.reseauxSociaux{
+    height:60px ;
+    width: 1020px ;
+    background-color: grey 
+}
+
 /*SECTION 02*/
 .section02{
     background-color: white;
-    height: 700px;
+    height: 900px;
+    width: 90px;
 
 }
 
-.moyenBlocFlotant{
+.entete{
     height: 90px ;
     width: 900px ;
     background-color: whitesmoke;
     margin: auto;
-    margin-top: ;
+    margin-top: 30px ;
+    margin-bottom: 30px;
     padding-top: ;
     border-top: ;
     border: ;
+    text-align: center;
 }
+
+ul.a{
+    list-style-type: circle;
+    word-spacing: 10px;
+    text-align: center;
+
+}
+
+ul.b{
+    list-style-type: none;
+    display: inline-block;
+    
+}
+
+li {
+    float: left;
+  }
+
+  .section01{
+      text-align: center;
+  }
